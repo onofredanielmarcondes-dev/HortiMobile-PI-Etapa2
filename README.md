@@ -18,4 +18,4 @@ Foi validada a integração completa entre a interface (Frontend) e o Banco de D
 4. Acesse no seu navegador: `http://localhost/HortiMobile-PI-Etapa2/`
 
 ## 🎥 Link de Demonstração da PoC
-[CLIQUE AQUI PARA ASSISTIR AO VÍDEO DE DEMONSTRAÇÃO]
+https://drive.google.com/file/d/1xjhcUvD4tTsaFjUypXd-ax81wBOPbqDg/view?usp=sharing
